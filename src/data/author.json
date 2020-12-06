@@ -1,44 +1,46 @@
 {
-    "name": "Anna Quincey",
+    "name": "Levi Wong",
     "occupation": "Front-End Developer",
-    "location": "Vienna, AT",
+    "location": "Hangzhou, CN",
     "avatar": "avatar.jpg",
-    "pronouns": "she/her",
-    "email": "anna.quincey@gmail.com",
-    "telephone": "+01 23 456 789",
-    "website": "https://annaquincey.dev",
+    "pronouns": "he/him",
+    "email": "leviwong42@gmail.com",
+    "telephone": "+01 707 666 0826",
+    "website": "https://leviwong.io",
     "skills": [
-        "HTML",
-        "CSS",
-        "Javascript / ES6",
-        "UI Design",
+        "Javascript / TypeScript",
+        "HTML / CSS",
         "React",
-        "Git"
+        "Node.js",
+        "Rust",
+        "UI Design",
+        "Figma"
     ],
     "languages": [
         {
-            "name": "English",
+            "name": "Chinese",
             "level": "native"
         },
         {
-            "name": "German",
+            "name": "English",
             "level": "fluent"
-        },
-        {
-            "name": "French",
-            "level": "basic"
         }
     ],
     "social": [
         {
             "name": "Github",
-            "user": "@annaquincey",
-            "url": "https://github.com/annaquincey"
+            "user": "@catmorphic",
+            "url": "https://github.com/catmorphic"
         },
         {
             "name": "LinkedIn",
-            "user": "AnnaQncy",
-            "url": "https://www.linkedin.com/in/annaquincey"
+            "user": "Lei Huang",
+            "url": "https://www.linkedin.com/in/leihuang-fe"
+        },
+        {
+            "name": "Twitter",
+            "user": "@leviwong_",
+            "url": "https://twitter.com/leviwong_"
         }
     ]
 }

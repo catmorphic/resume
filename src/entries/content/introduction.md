@@ -3,4 +3,4 @@ tags: introduction
 title: About Me
 ---
 
-I am a web developer with over 12 years of experience in the front-end and a special background in digital design. My focus is on creating engaging, accessible & performant interfaces for humans. I am currently looking for new challenges.
+I am a front-end developer with 3 years of experience. I'm a quick learner and ready to take new challenges. During my last 2 years at Alipay and Binance, I've learned a lot of industry-leading practices in system design and web performance. I'm now looking for work opportunities in Europe with visa sponsorship.
