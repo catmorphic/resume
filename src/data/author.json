@@ -1,20 +1,18 @@
 {
-    "name": "Levi Wong",
+    "name": "Lei Huang",
     "occupation": "Senior Front-End Developer",
-    "location": "Hangzhou, CN",
+    "location": "Shanghai, CN",
     "avatar": "avatar.jpg",
     "pronouns": "he/him",
-    "email": "leviwong42@gmail.com",
+    "email": "leihuang069@gmail.com",
     "telephone": "+01 707 666 0826",
-    "website": "https://leviwong.io",
+    "website": "https://leihuang.dev",
     "skills": [
         "Javascript / TypeScript",
         "HTML / CSS",
         "React",
         "Node.js",
-        "Rust",
-        "UI Design",
-        "Figma"
+        "Rust"
     ],
     "languages": [
         {
@@ -36,11 +34,6 @@
             "name": "LinkedIn",
             "user": "Lei Huang",
             "url": "https://www.linkedin.com/in/leihuang-fe"
-        },
-        {
-            "name": "Twitter",
-            "user": "@leviwong_",
-            "url": "https://twitter.com/leviwong_"
         }
     ]
 }
